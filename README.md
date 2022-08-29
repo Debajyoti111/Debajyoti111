@@ -4,9 +4,15 @@
 
 - 🧑‍🎓 I'm a student at ABV-IIITM Gwalior
 
-- 🤝 I’m looking to collaborate on **Open Source Projects**
+- 🎯 I’m looking to collaborate on **Open Source Projects**
+
+- 🔍 I am currently exploring Deep Learning
 
 - 📫 Want to contact me? DM me on my Linkedin profile- **[Linkedin](https://www.linkedin.com/in/debajyoti-dhar-17a81021a/)**
+
+- 🤝 Open to opportunities
+
+- 😊 Pronouns- He/Him
 
 - ⚡ Fun fact **I binged watch one piece in 2 months.**
 
