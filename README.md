@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debajyoti Dhar</h1>
 <h2>👦About Me </h2>
-<h3>I am a Blockchain Developer and an Indie Game Developer. I also have great interest on AI/ML/RL/DL.</h3>
+<h3>I am a Blockchain Developer and AI/ML developer. I also do indie Game Development as a hobby.</h3>
 
 - 🧑‍🎓 I'm a student at ABV-IIITM Gwalior
 
